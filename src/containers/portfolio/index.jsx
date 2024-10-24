@@ -19,19 +19,19 @@ const portfolioData = [
     id: 2,
     name: "AWS Project",
     image: ImageTwo,
-    link: "https://your-notes-app-link.com",
+    link: "",
   },
   {
     id: 3,
     name: "Parking App",
     image: ImageThree,
-    link: "https://your-supplier-design-link.com",
+    link: "https://github.com/balavardhan224/smart-parking",
   },
   {
     id: 4,
     name: "IARE Fest App",
     image: ImageFour,
-    link: "https://your-todo-app-link.com",
+    link: "https://github.com/balavardhan224/IARE-Fest",
   },
   // {
   //   id: 5,
