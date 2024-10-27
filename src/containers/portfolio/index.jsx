@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import PageHeaderContent from "../../components/pageHeaderContent";
 import { BsInfoCircleFill } from "react-icons/bs";
 import ImageOne from "../../images/portfolio.jpg";
+import ImageOnee from "../../images/1.jpeg";
 import ImageTwo from "../../images/aws.avif";
 import ImageThree from "../../images/parking.png";
 import ImageFour from "../../images/iare.webp";
@@ -9,6 +10,12 @@ import ImageFour from "../../images/iare.webp";
 import "./styles.scss";
 
 const portfolioData = [
+  {
+    id: 1,
+    name: "Java Project",
+    image: ImageOnee,
+    link: "https://github.com/balavardhan224/Java-project-Employee-Management", // Update with a valid link
+  },
   {
     id: 1,
     name: "Portfolio Webpage",

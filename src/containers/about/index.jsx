@@ -24,7 +24,7 @@ const personalDetails = [
   },
   {
     label: "Contact No",
-    value: "+1 3144595683",
+    value: "+1 (314) 459-5683",
   },
 ];
 
